@@ -70,7 +70,7 @@
 <div align="center">
   <strong>Mata Kuliah:</strong> Pemrograman Web<br>
   <strong>Dosen:</strong> Mohammad As'ad Rosyadi, S.Pd., M.T.<br>
-  <strong>Institusi:</strong> Politeknik Negeri Batam<br>
+  <strong>Institusi:</strong> Universitas Internasional Semen Indonesia<br>
   <strong>Tahun:</strong> 2025
 </div>
 
