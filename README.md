@@ -50,7 +50,7 @@
         <br>
         <small>Teknik Informatika</small>
         <br>
-        <a href="https://github.com/bayuence">@bayuence</a>
+        <a href="https://github.com/bayuence">@bayuence_</a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/👨‍💻-Backend_Developer-green?style=for-the-badge" alt="Backend">
