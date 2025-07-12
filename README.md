@@ -214,15 +214,8 @@ Git >= 2.0.0
         <img src="https://img.shields.io/badge/👑-ADMIN-red?style=for-the-badge" alt="Admin">
         <br>
         <strong>Email:</strong> admin@warkop.com<br>
-        <strong>Password:</strong> admin123<br>
+        <strong>Password:</strong> admin<br>
         <em>Full Access</em>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/👤-KASIR-blue?style=for-the-badge" alt="Kasir">
-        <br>
-        <strong>Email:</strong> kasir@warkop.com<br>
-        <strong>Password:</strong> kasir123<br>
-        <em>POS & Customer Access</em>
       </td>
     </tr>
   </table>
