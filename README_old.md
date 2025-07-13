@@ -156,50 +156,7 @@
 
 ---
 
-## 🚀 **Instalasi & Setup**
-
-### 📋 **Prerequisites**
-```bash
-# Pastikan telah terinstall:
-Node.js >= 18.0.0
-npm >= 9.0.0 atau yarn >= 1.22.0
-Git >= 2.0.0
-```
-
-### 🔧 **Langkah-langkah Instalasi**
-
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/yourusername/warkop-smartpos.git
-   cd warkop-smartpos
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   npm install
-   # atau menggunakan yarn
-   yarn install
-   ```
-
-3. **Setup Environment Variables**
-   ```bash
-   cp .env.example .env.local
-   # Edit .env.local sesuai konfigurasi Anda
-   ```
-
-4. **Run Development Server**
-   ```bash
-   npm run dev
-   # atau
-   yarn dev
-   ```
-
-5. **Akses Aplikasi**
-   ```
-   🌐 Buka browser: http://localhost:3000
-   ```
-
----
+admin@warkop.digital
 
 ## 🎮 **Demo Akun**
 
@@ -209,8 +166,8 @@ Git >= 2.0.0
       <td align="center">
         <img src="https://img.shields.io/badge/👑-ADMIN-red?style=for-the-badge" alt="Admin">
         <br>
-        <strong>Email:</strong> admin@warkop.com<br>
-        <strong>Password:</strong> admin123<br>
+        <strong>Email:</strong> admin@warkop.digital<br>
+        <strong>Password:</strong> admin2025<br>
         <em>Full Access</em>
       </td>
       <td align="center">
